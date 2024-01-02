@@ -10,7 +10,9 @@
 - Create code file
 - Create test file
 - run test
+  `npm run test`
 - run test with coverage
+  `npm run test:coverage`
 - upload to github
 - testing code review
 
